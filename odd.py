@@ -14,4 +14,4 @@ number_list = [first_input, second_input, third_input, fourth_input, fifth_input
 
 for number in number_list: 
     if number % 2 != 0: 
-        print(number)
+        print("The odd numbers are: ", number)

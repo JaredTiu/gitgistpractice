@@ -1,4 +1,4 @@
-one_hundred_list = list(range(1, 101))
+one_hundred_list = list(range(0, 101))
 
 for number in one_hundred_list:
     if number % 2 == 0: 
